@@ -1,9 +1,12 @@
 # Ecoleta
 Aplicação construída  com React, Node e React Native do JavaScript, projeto desenvolvido durante a semana Next Level Week.
 
+![foto1](https://github.com/aandrelouis/Ecoleta/blob/master/imagens/foto0.png)
 
-![foto1](https://github.com/aandrelouis/Site-tranca-biometrica/blob/main/imgs/foto1.jpeg)
+![foto2](https://github.com/aandrelouis/Ecoleta/blob/master/imagens/foto1.png)
 
-![foto2](https://github.com/aandrelouis/Site-tranca-biometrica/blob/main/imgs/foto2.jpeg)
+![foto3](https://github.com/aandrelouis/Ecoleta/blob/master/imagens/foto2.png)
 
-![foto3](https://github.com/aandrelouis/Site-tranca-biometrica/blob/main/imgs/foto3.jpeg)
+![App](https://github.com/aandrelouis/Ecoleta/blob/master/imagens/app1.png)
+
+![video](https://github.com/aandrelouis/Ecoleta/blob/master/imagens/Video.gif)
